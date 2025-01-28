@@ -1,2 +1,3 @@
 nikujaga
 sushi
+sukiyaki
